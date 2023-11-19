@@ -54,9 +54,13 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Tenga un `border-radius` de `5`.
 
-- Regla 9. Crea y edita la **clase**
+- Regla 9. Crea y edita la **clase** `sombreado2` para que:
 
+    - Tenga `background-color` de color `rgba(23, 71, 228, 0.644)`.
 
+    - Un `display: inline;`.
+
+    - Tenga un `border-radius` de `5`.
 
 - Regla 10. Crea y edita la **clase** `contenedor1` para que:
 
