@@ -34,13 +34,15 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Este **centrada igual que se centra un texto**.
 
-- Regla 6.
+- Regla 6. Edita la **clase** `tabla` para que:
 
+    - Tenga un `padding-left` de `300`.
 
+    - Tenga el texto centrado con un `text-align`.
 
-- Regla 7.
+- Regla 7. Edita la **clase** `titulo1` para que:
 
-
+    - 
 
 - Regla 8.
 
