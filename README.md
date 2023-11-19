@@ -42,11 +42,13 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
 - Regla 7. Edita la **clase** `titulo1` para que:
 
+    - Tenga el texto centrado con un `text-align`.
+
+    - Un `padding` de `5`.
+
+- Regla 8. Edita la **clase** `sombreado` para que:
+
     - 
-
-- Regla 8.
-
-
 
 - Regla 9.
 
