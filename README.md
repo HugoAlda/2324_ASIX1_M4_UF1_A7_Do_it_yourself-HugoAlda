@@ -1,6 +1,6 @@
 Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
 
-- **Regla 1**. Edita el elemento `<body>` para que tenga:
+- **Regla 1**. Edita el **elemento** `<body>` para que tenga:
 
     - Un `margin` de `0`.
     
@@ -16,12 +16,40 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Ajustar la imagen de fondo para que no se repita con `background-repeat` y **cubrir** el tamaño de la pantalla con un `background-size`.
 
-- Regla 2.
+- Regla 2. Edita la **clase** `imgtitulo` para que:
+
+    - Tenga un tamaño del `10%`.
+
+- Regla 3. Edita el **elemento** `<strong>` dentro de los **elementos** `body > div > p` para que:
+
+    - Tenga un `background-color` de `rgba(255, 255, 255, 0.719)`.
+
+    - Un `border-radius` de `3`.
+
+- Regla 4. Edita la **clase** `t1` para que:
+
+    - Tenga un tamaño del `40%`.
+
+- Regla 5. Edita la **clase** `imgt1` para que:
+
+    - Este **centrada igual que se centra un texto**.
+
+- Regla 6.
 
 
 
-- Regla 3.
+- Regla 7.
 
 
 
-- Regla 4.
+- Regla 8.
+
+
+
+- Regla 9.
+
+
+
+- Regla 10. Edita la **clase** para que:
+
+    - 
