@@ -50,6 +50,18 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
 
 
-- Regla 10. Edita la **clase** para que:
+- Regla 10. Edita la **clase** `contenedor1` para que:
 
-    - 
+    - Tenga un `background-color` de `rgba(255,91,91,255)`.
+
+    - Un `border` de `2, solid` y de color `negro`.
+
+    - Un `border-radius` de `5`.
+
+    - Un `padding` de `30`.
+
+    - `Margins` tanto `top` como `bottom` de `20`.
+
+    - `Color` de texto `negro`.
+
+    - Separacion entre las linias `line-height` de `25`.
