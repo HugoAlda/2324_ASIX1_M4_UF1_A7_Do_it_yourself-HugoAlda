@@ -4,7 +4,7 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Un `margin` de `0`.
     
-    - Unos `paddings` tanto `left` como `right` de `230`.
+    - Unos `paddings` tanto `left` como `right` de `230px`.
     
     - Un `font-family` de `Arial, sans-serif`.
 
@@ -24,7 +24,7 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Tenga un `background-color` de `rgba(255, 255, 255, 0.719)`.
 
-    - Un `border-radius` de `3`.
+    - Un `border-radius` de `3px`.
 
 - Regla 4. Crea y edita la **clase** `t1` para que:
 
@@ -36,7 +36,7 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
 - Regla 6. Crea y edita la **clase** `tabla` para que:
 
-    - Tenga un `padding-left` de `300`.
+    - Tenga un `padding-left` de `300px`.
 
     - Tenga el texto centrado con un `text-align`.
 
@@ -44,7 +44,7 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Tenga el texto centrado con un `text-align`.
 
-    - Un `padding` de `5`.
+    - Un `padding` de `5px`.
 
 - Regla 8. Crea y edita la **clase** `sombreado` para que:
 
@@ -52,7 +52,7 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Que los **bordes COLAPSEN** entre ellos con un `border-collapse`.
 
-    - Tenga un `border-radius` de `5`.
+    - Tenga un `border-radius` de `5px`.
 
 - Regla 9. Crea y edita la **clase** `sombreado2` para que:
 
@@ -60,15 +60,15 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 
     - Un `display: inline;`.
 
-    - Tenga un `border-radius` de `5`.
+    - Tenga un `border-radius` de `5px`.
 
 - Regla 10. Crea y edita la **clase** `contenedor1` para que:
 
     - Tenga un `background-color` de `rgba(255,91,91,255)`.
 
-    - Un `border` de `2, solid` y de color `negro`.
+    - Un `border` de `2px, solid` y de color `negro`.
 
-    - Un `border-radius` de `5`.
+    - Un `border-radius` de `5px`.
 
     - Un `padding` de `30`.
 
